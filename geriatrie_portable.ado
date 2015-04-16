@@ -15,6 +15,9 @@
 == Open Source
 === ツール
 . Atomに、japansese-menu、asciidoc-previewをインストール。
+. SourceTree
+. GitHub
+. SocialMedicineLaboratory
 
 === 書籍
 . Web製作者のためのGitHubの教科書
@@ -24,6 +27,7 @@
 . サパイラ身体診察のアートとサイエンス
 . ユマニチュード入門
 . Humanitude
+. Précis pratique de gériatrie
 
 === 文献
 . NEJM
