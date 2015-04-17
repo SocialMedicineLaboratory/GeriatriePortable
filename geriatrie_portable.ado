@@ -3,10 +3,10 @@ Gériatrie Portable
 :Author:    稜北病院社会医学研究所
 
 == 三大原則
-. "L'âge n'est qu'un numéro.”
+. « L'âge n'est qu'un numéro. »
 年齢は単なる数字にすぎない。
-. GP'S mindSET
-. 害すること勿れ
+. « »GP'S mindSET
+. « Avoir, dans les maladies, deux choses en vue : être utile ou du moins ne pas nuire »
 
 == Clinical Problem-Solving
 . 年齢６５歳以上の症例を抽出
@@ -24,9 +24,7 @@ Stones or social problems
 === 体格
 . 身長が2m未満の場合、体重(kg)≦身長(cm)－100ならBMIは25未満である。
 . 身長(m)÷２の自乗の100倍がその値。さらにその1割引きが、ほぼ理想体重(BMI=22.5)。
-
-[latex]
-$x^2 = (x+d)(x-d)+d^2$
+. 例）身長が1.68mの場合、公式 x^2 = (x+d)(x-d)+d^2を使うと、84^2=100*68+256=7056
 
 === 咽頭所見
 . インフルエンザの咽頭所見：インフルエンザでの咽頭後壁の「イクラ様リンパ濾胞」が有名（ https://www.jstage.jst.go.jp/article/general/12/2/12_2_51/_pdf ）
@@ -37,6 +35,11 @@ $x^2 = (x+d)(x-d)+d^2$
 . 転倒予測ツールSIDE：Level ０：開脚立位を一人で保持できない。立位保持には必ず支持（自分でつかまるか介助者が 支える）が必要である． Level １：閉脚立位は 5 秒以上保持不能でバランスを崩す． Level 2a：つぎ足立位は，両側とも５秒以上保持できないかバランスを崩す． Level 2b：つぎ足立位は片方だけ５秒以上保持可能だが，もう一方は５秒以内にバランスを崩す． Level ３：片脚立位は 30 秒以上できない． Level ４：どちらか一方で片脚立位が 30 秒以上可能である．
 
 == POC testing
+=== 臨床疫学
+. 
+. Awareness、Measure、Optional outcome、Odds ratio、Report
+. χ２検定
+
 === POC testing
 . トロップＴセンシティヴ：陽性尤度比8.62、陰性尤度比0.707
 . リボテストマイコプラズマ：陽性尤度比6.86、陰性尤度比0.463
@@ -96,6 +99,9 @@ $x^2 = (x+d)(x-d)+d^2$
 
 == 参考書籍
 === Clinical Problem-Solving
+. クリニカル・リーズニング・ラーニング
+. Clinical Care Conundrums
+. みんなはどう診るこの症状
 . Précis pratique de gériatrie
 . Zebra Cards
 . ティアニー先生の診断入門
@@ -103,6 +109,10 @@ $x^2 = (x+d)(x-d)+d^2$
 . ティアニー先生のベストパール
 . ティアニー先生のベストパール２
 . プライマリケア医に贈るパール５６３
+. ダ・ヴィンチのカルテ
+. プライマリ・ケアの現場で役立つ一発診断１００
+. 診断のゲシュタルトとデギュスタシオン
+. 診断のゲシュタルトとデギュスタシオン２
 
 === Physical Examination
 . 高齢者診療で身体診察を強力な武器にするためのエビデンス
@@ -111,6 +121,7 @@ $x^2 = (x+d)(x-d)+d^2$
 . 電子聴診器でぐんと身につく心音聴診技術: DVDで何度も聴けて音が見える新しい聴診学習法
 . ティアニー先生の心臓の診察
 . Atlas Sakuma
+. マクギーの身体診断学
 
 === POC
 
@@ -119,6 +130,7 @@ $x^2 = (x+d)(x-d)+d^2$
 . 在宅整形が得意技になる本
 . ユマニチュード入門
 . Humanitude
+. トップジャーナルから学ぶ総合診療アップデート
 
 === Open Source
 . Web製作者のためのGitHubの教科書
